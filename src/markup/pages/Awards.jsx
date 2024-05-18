@@ -3,7 +3,7 @@ import React from "react";
 const Awards = () => {
   return (
     <div>
-      <section className="resume-section" id="awards">
+      <section className="m-5" id="awards">
         <div className="resume-section-content">
           <h2 className="mb-0">Awards & Certifications</h2>
           <ul className="fa-ul mb-0">

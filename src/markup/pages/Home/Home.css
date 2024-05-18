@@ -1,0 +1,18 @@
+.App-header h1 {
+    text-align: center;
+   
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+     /* sticky to top */
+     position: sticky;
+     top: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  

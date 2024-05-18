@@ -3,7 +3,7 @@ import React from 'react'
 const Interests = () => {
   return (
     <div>
-          <section className="resume-section" id="interests">
+          <section className="m-5" id="interests">
                 <div className="resume-section-content">
                     <h2 className="mb-0">Interests</h2>
                     <p>Apart from being a web developer, I enjoy most of my time being indoors. Reading books,Helping others in different situation and Meditation about nature</p>
