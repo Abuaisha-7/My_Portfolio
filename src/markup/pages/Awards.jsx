@@ -42,6 +42,7 @@ const Awards = () => {
           </ul>
         </div>
       </section>
+      <hr className="m-0" />
     </div>
   );
 };

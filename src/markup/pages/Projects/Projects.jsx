@@ -45,8 +45,10 @@ const projects = [
 
 const Projects = () => {
   return (
+    <>
+     <h2 className=" resume-section-content m-5">Projects</h2>
     <div className="projects-container">
-      {projects.map((project, index) => (
+            {projects.map((project, index) => (
         <ProjectCard
           key={index}
           title={project.title}
@@ -56,6 +58,7 @@ const Projects = () => {
         />
       ))}
     </div>
+    </>
   );
 };
 
