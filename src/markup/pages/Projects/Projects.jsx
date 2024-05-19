@@ -14,7 +14,7 @@ const projects = [
     title: 'Project One',
     description: 'The Netflix Clone project is a full-featured web application designed to replicate the user experience of the popular streaming service, Netflix. This clone provides a seamless and immersive platform for users to explore, browse, and stream their favorite movies and TV shows.',
     image: `${Netflix}`,
-    link: 'https://netflix-clone-heyru.netlify.app'
+    link: 'https://thunderous-taiyaki-ca36ed.netlify.app/'
   },
   {
     title: 'Project Two',
