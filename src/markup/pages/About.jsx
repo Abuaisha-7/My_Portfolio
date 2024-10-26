@@ -37,18 +37,11 @@ const About = () => {
             >
               <i className="fab fa-linkedin-in"></i>
             </Link>
-            <Link className="social-icon" to="https://t.me/Heyru8086">
-              <i className="fab fa-telegram"></i>
-            </Link>
+            
             <Link className="social-icon" to="https://twitter.com/HeyruBedru">
               <i className="fab fa-twitter"></i>
             </Link>
-            <Link
-              className="social-icon"
-              to="https://www.facebook.com/heyru.bedru"
-            >
-              <i className="fab fa-facebook-f"></i>
-            </Link>
+            
           </div>
         </div>
       </section>

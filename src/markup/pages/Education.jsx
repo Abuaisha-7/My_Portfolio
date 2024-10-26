@@ -10,11 +10,23 @@ const Education = () => {
             <div className="flex-grow-1">
               <h3 className="mb-0">Evangadi Coding Academy</h3>
               <div className="subheading mb-3">Fullstack Application Development Program</div>
-              <div>Fullstack Web Development</div>
+              <div>Fullstack Web Development (MERN Stack)</div>
              
             </div>
             <div className="flex-shrink-0">
               <span className="text-primary">August 2023 - May 2024</span>
+            </div>
+          </div>
+          <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="flex-grow-1">
+              <h3 className="mb-0">Udacity</h3>
+              <div className="subheading mb-3">Programming Fundamentals</div>
+              <div>Web Development</div>
+             
+            </div>
+            <div className="flex-shrink-0">
+              <span className="text-primary p-5
+              ">August 22, 2024</span>
             </div>
           </div>
           <div className="d-flex flex-column flex-md-row justify-content-between mb-5">

@@ -7,9 +7,10 @@ const Skills = () => {
         <div className="resume-section-content">
           <h2 className="mb-5">Skills</h2>
           <div className="subheading mb-3">Programming Languages & Tools</div>
-          <ul className="list-inline dev-icons">
+          <ul className="list-inline dev-icons d-flex justify-content-start gap-4">
             <li className="list-inline-item">
               <i className="fab fa-html5"></i>
+              
             </li>
             <li className="list-inline-item">
               <i className="fab fa-css3-alt"></i>
@@ -37,6 +38,19 @@ const Skills = () => {
             </li>
            
           </ul>
+          <div className="d-flex">
+
+          <p className="text-sm fs-6 fw-bold text-primary ms-2">HTML5 |</p>
+          <p className="text-sm fs-6 fw-bold text-primary ms-2">CSS |</p>
+        
+          <p className="text-sm fs-6 fw-bold text-primary ms-2">Bootstrap |</p>
+          <p className="text-sm fs-6 fw-bold text-primary ms-2">Tailwindcss |</p>
+          <p className="text-sm fs-6 fw-bold text-primary ms-2">JavaScript |</p>
+          <p className="text-sm fs-6 fw-bold text-primary ms-2">Python |</p>
+          <p className="text-sm fs-6 fw-bold text-primary ms-2">NodeJS |</p>
+          <p className="text-sm fs-6 fw-bold text-primary ms-2">React |</p>
+          <p className="text-sm fs-6 fw-bold text-primary ms-2">MySQL</p>
+          </div>
           <div className="subheading mb-3">Workflow</div>
           <ul className="fa-ul mb-0">
             <li>
